@@ -761,7 +761,7 @@
     width: 80px;
     height: 80px;
     border-radius: 40px;
-    background: url(../img/testimonial-img-2.jpg) center center no-repeat;
+    background: #ADD8E6 center center no-repeat;
     animation: TestimonialMoveLeft 100s linear infinite;
     z-index: -1;
 
@@ -775,7 +775,7 @@
     width: 80px;
     height: 80px;
     border-radius: 40px;
-    background: url(../img/testimonial-img-3.jpg) center center no-repeat;
+    background: white center center no-repeat;
     animation: TestimonialMoveRight 100s linear infinite;
     z-index: -1;
 
